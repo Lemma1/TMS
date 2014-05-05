@@ -1,0 +1,12 @@
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+	<a class="navbar-brand" href="#">土木建管系党建数据库系统</a>
+	<ul class="nav navbar-nav navbar-right">
+		<li ><a href="personal.php">个人中心</a></li>
+		<li><a href="class_view.php">查看他人</a></li>
+		<li><a href="class_view_foredit.php">管理他人</a></li>
+		<li><a href="home.php">返回主页</a></li>
+		<li><a href="logout.php">登出</a></li>
+	</ul>
+	</div>
+</div>
